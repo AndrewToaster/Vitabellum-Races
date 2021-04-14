@@ -1,4 +1,6 @@
 {
+	"name": "Beefy Health Bar",
+	"description": "Your Healtbar looking mighty fine warrior you get 2 extra hearts",
 	"type": "origins:attribute",
 	"modifiers": [
 		{
@@ -11,8 +13,5 @@
 			"operation": "multiply_total",
 			"value": 0.2
 		}
-	],
-
-	"name": "Beefy Health Bar",
-	"description": "Your Healtbar looking mighty fine warrior you get 2 extra hearts"
+	]
 }
