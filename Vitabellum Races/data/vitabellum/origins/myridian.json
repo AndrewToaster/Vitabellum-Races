@@ -1,0 +1,22 @@
+{
+    "name": "Myridian",
+    "description": "This Race didnt evolve to live on the land so its a waterborn race they are really weak on water but are insanely strong in their natural habitat",
+    "icon": "minecraft:tropical_fish",
+    "order": 5,
+    "impact": 2,
+
+    "powers": [
+        "origins:aqua_affinity",
+        "origins:aquatic",
+        "origins:water_vision",
+        "origins:water_breathing",
+        "origins:swim_speed",
+        "origins:cat_vision",
+        "vitabellum:myridian/land_weakness",
+        "vitabellum:myridian/water_weakness",
+        "vitabellum:myridian/water_strength",
+        "vitabellum:myridian/beefy",
+        "origins:light_armor"
+
+    ]
+}
