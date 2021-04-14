@@ -1,0 +1,16 @@
+{
+    "name": "No Stomach",
+    "description": "You do not posses a stomach and therefore you are unable to go famished",
+    "type": "origins:exhaust",
+
+    "interval": 1,
+    "exhaustion": -1,
+
+    "condition": {
+        "type": "food_level",
+        "comparison": "<",
+        "compare_to": 20
+    },
+
+    "hidden": true
+}

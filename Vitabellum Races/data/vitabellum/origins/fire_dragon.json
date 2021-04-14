@@ -1,9 +1,0 @@
-{
-    "name": "Fire Dragon Kin",
-    "description": "Placeholder",
-    "icon": "minecraft:blaze_powder",
-
-    "powers": [
-        "vitabellum:fire_dragon/fire_resistance"
-    ]
-}

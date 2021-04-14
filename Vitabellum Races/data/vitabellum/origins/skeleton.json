@@ -1,0 +1,13 @@
+{
+    "name": "Skeleton",
+    "description": "You rise once again, this time without your skin or your meat.",
+    "icon": "minecraft:bone",
+
+    "powers": [
+        "vitabellum:skeleton/bones_buff_move_speed",
+        "vitabellum:skeleton/bones_buff_attack_speed",
+        "vitabellum:skeleton/bones_debuff",
+        "vitabellum:common/no_stomach",
+        "vitabellum:common/no_stomach_regen"
+    ]
+}
