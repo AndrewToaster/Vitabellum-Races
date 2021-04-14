@@ -9,5 +9,7 @@
         "vitabellum:skeleton/bones_debuff",
         "vitabellum:common/no_stomach",
         "vitabellum:common/no_stomach_regen"
-    ]
+    ],
+
+    "impact": 1
 }
