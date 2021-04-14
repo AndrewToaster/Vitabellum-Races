@@ -2,7 +2,8 @@
 	"replace": true,
 	"origins": [
 		"origins:human",
-		"vitabellum:skeleton"
+		"vitabellum:skeleton",
+		"vitabellum:myridian"
 	],
 
 	"name": "Origin"
