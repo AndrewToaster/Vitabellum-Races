@@ -1,6 +1,6 @@
 {
     "name" : "Fire resistance",
-    "description": "You are extremely resistant to fire",
+    "description": "You are extremely resistant to fire (50% reduced fire damage taken)",
     "type": "origins:modify_damage_taken",
 
     "damage_condition": {
