@@ -5,9 +5,9 @@
 
     "modifier": {
         "attribute": "generic.movement_speed",
-        "operation": "multiply_base",
-        "value": 1.085,
-        "name": "Increases move speed by 8.5% (multiply_base)"
+        "operation": "multiply_total",
+        "value": 0.085,
+        "name": "Increases move speed by 8.5% (multiply_total)"
     },
 
     "hidden": true

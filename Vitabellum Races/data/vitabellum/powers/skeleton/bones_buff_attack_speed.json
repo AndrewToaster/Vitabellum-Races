@@ -5,8 +5,8 @@
 
     "modifier": {
         "attribute": "generic.attack_speed",
-        "operation": "multiply_base",
-        "value": 1.10,
+        "operation": "multiply_total",
+        "value": 0.10,
         "name": "Increases attack speed by 10% (multiply_base)"
     },
 

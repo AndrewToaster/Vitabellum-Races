@@ -4,9 +4,12 @@
     "type": "origins:modify_food",
 
     "item_condition": {
-        "type": "origins:ingredient",
-        "ingredient": {
-            "tag": "origins:meat"
-        }
+        "type": "origins:meat"
+    },
+
+    "food_modifier": {
+        "operation": "multiply_total",
+        "value": -0.95,
+        "name": "Decreases food gained from non-meat foods by 45% (multiply_total)"
     }
 }

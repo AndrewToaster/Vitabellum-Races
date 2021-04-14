@@ -5,8 +5,8 @@
 
     "modifier": {
         "attribute": "generic.movement_speed",
-        "operation": "multiply_base",
-        "amount": "0.85",
-        "name": "Speed decreased by 15% (multiply_base)"
+        "operation": "multiply_total",
+        "value": "-0.15",
+        "name": "Speed decreased by 15% (multiply_total)"
     }
 }
