@@ -1,0 +1,18 @@
+{
+	"type": "origins:attribute",
+	"modifiers": [
+		{
+			"attribute": "minecraft:generic.max_health",
+			"operation": "addition",
+			"value": 8
+		},
+		{
+			"attribute": "minecraft:generic.armor",
+			"operation": "multiply_total",
+			"value": 0.2
+		}
+	],
+
+	"name": "Beefy Health Bar",
+	"description": "Your Healtbar looking mighty fine warrior you get 2 extra hearts"
+}

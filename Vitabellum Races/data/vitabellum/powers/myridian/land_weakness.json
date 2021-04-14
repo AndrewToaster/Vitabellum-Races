@@ -1,0 +1,34 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 15,
+    "duration_per_stack": 40,
+    "effects": [
+        {
+            "effect": "minecraft:weakness",
+            "duration": 200,
+            "amplifier": 1,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }, 
+        {
+            "effect": "minecraft:slowness",
+            "duration": 200,
+            "amplifier": 2,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+    "condition": {
+        "type": "origins:fluid_height",
+        "comparison": ">",
+        "compare_to": 0,
+        "fluid": "minecraft:water",
+        "inverted": true
+    },
+    
+    "name": "Aquatic creature",
+    "description": "You are a aquatic creature you really dont like being out of water"
+}
