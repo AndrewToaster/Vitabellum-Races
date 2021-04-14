@@ -1,10 +1,8 @@
 {
     "name": "Hunger",
     "description": "You need to feed, a lot",
-    "type": "origins:modify_exhaustion",
+    "type": "origins:exhaust",
 
-    "modifier": {
-        "operation": "multiply_total",
-        "value": 1
-    }
+    "interval": 750,
+    "exhaustion": 1
 }
