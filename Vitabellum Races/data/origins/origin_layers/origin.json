@@ -1,4 +1,8 @@
 {
-	"replace": false,
-	"origins": []
+	"replace": true,
+	"origins": [
+		"vitabellum:fire_dragon"
+	],
+
+	"name": "Origin"
 }
