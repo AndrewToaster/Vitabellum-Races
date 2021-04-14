@@ -1,4 +1,6 @@
 {
+    "name": "Water Strength",
+    "description": "While under water your muscles harden becoming stronger and faster",
     "type": "origins:stacking_status_effect",
     "min_stacks": 0,
     "max_stacks": 3,
@@ -25,8 +27,5 @@
     "condition": {
         "type": "origins:submerged_in",
         "fluid": "minecraft:water"
-    },
-    
-    "name": "Water Strength",
-    "description": "While under water your muscles harden becoming stronger and faster"
+    }
 }
