@@ -1,0 +1,32 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 3,
+    "duration_per_stack": 40,
+    "effects": [
+        {
+            "effect": "minecraft:strength",
+            "duration": 200,
+            "amplifier": 0,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }, 
+        {
+            "effect": "minecraft:haste",
+            "duration": 200,
+            "amplifier": 1,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water"
+    },
+    
+    "name": "Water Strength",
+    "description": "While under water your muscles harden becoming stronger and faster"
+}
