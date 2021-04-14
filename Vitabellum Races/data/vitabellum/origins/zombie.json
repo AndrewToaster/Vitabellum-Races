@@ -1,0 +1,11 @@
+{
+    "name": "Zombie",
+    "description": "A meat hungry creature that has a bottom-less stomach",
+    "icon": "minecraft:rotten_flesh",
+
+    "powers": [
+        "vitabellum:common/meat_preference",
+        "vitabellum:zombie/hunger",
+        "vitabellum:zombie/rotten_slow"
+    ]
+}

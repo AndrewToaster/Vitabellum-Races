@@ -1,0 +1,10 @@
+{
+    "name": "Hunger",
+    "description": "You need to feed, a lot",
+    "type": "origins:modify_exhaustion",
+
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 1
+    }
+}

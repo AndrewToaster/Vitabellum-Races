@@ -1,0 +1,12 @@
+{
+    "name": "Meat Preference",
+    "description": "You can eat everything, but only meat can satisfy",
+    "type": "origins:modify_food",
+
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "tag": "origins:meat"
+        }
+    }
+}
