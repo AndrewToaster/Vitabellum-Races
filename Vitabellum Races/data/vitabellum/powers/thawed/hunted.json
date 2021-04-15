@@ -4,8 +4,8 @@
     "type": "origins:modify_damage_taken",
 
     "modifier": {
-        "operation": "multiply_base",
-        "value": 1.20,
+        "operation": "multiply_total",
+        "value": 0.20,
         "name": "Increases the damage taken by 20% (multiply_base)"
     }
 }
