@@ -1,15 +1,11 @@
 {
-    "name" : "Hunt or be Hunted",
-    "description": "Out in the mountains its Hunt or be Hunted (20% + Damage 20%+ Damage taken",
+    "name": "Hunt or be Hunted",
+    "description": "Out in the mountains its Hunt or be Hutned (20%+ increased damage / 20%+ increased damage taken)",
     "type": "origins:modify_damage_taken",
 
-    "damage_condition": {
-        "type": "origins:name",
-        "name": "minecraft:generic"
-    },
-
     "modifier": {
-        "operation":"multiply_base",
-        "value": 1.2
+        "operation": "multiply_base",
+        "value": 1.20,
+        "name": "Increases the damage taken by 20% (multiply_base)"
     }
 }
