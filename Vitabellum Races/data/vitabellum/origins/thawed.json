@@ -7,6 +7,8 @@
     "powers": [
             "vitabellum:thawed/fire_weakness",
             "vitabellum:thawed/icy_move_speed",
-            "vitabellum:thawed/encase"
+            "vitabellum:thawed/encase",
+            "vitabellum:thawed/hunt",
+            "vitabellum:thawed/hunted"
     ]
 }
