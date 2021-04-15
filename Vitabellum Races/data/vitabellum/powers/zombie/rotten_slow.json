@@ -1,0 +1,12 @@
+{
+    "name": "Rotten Slow",
+    "description": "Your legs are pretty rotten and have speed limitations as a result",
+    "type": "origins:attribute",
+
+    "modifier": {
+        "attribute": "generic.movement_speed",
+        "operation": "multiply_total",
+        "value": "-0.15",
+        "name": "Speed decreased by 15% (multiply_total)"
+    }
+}

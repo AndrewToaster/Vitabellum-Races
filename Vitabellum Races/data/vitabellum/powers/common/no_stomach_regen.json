@@ -7,7 +7,7 @@
     "exhaustion": -1,
 
     "condition": {
-        "type": "food_level",
+        "type": "origins:food_level",
         "comparison": "<",
         "compare_to": 20
     },

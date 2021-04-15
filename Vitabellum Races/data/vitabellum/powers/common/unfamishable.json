@@ -1,0 +1,19 @@
+{
+    "name": "Unfamishable",
+    "description": "Magical powers make you unable to die from hunger",
+    "type": "origins:action_over_time",
+
+    "interval": 1,
+
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 1,
+        "saturation": 0
+    },
+
+    "condition": {
+        "type": "origins:food_level",
+        "comparison": "<",
+        "compare_to": 2
+    }
+}

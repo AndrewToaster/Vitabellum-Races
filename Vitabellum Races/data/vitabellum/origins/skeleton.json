@@ -9,6 +9,7 @@
         "vitabellum:skeleton/bones_debuff",
         "vitabellum:common/no_stomach",
         "vitabellum:common/no_stomach_regen",
+        "vitabellum:common/undead_group",
         "vitabellum:skeleton/arrow_damage"
     ],
 

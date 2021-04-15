@@ -3,6 +3,7 @@
 	"origins": [
 		"origins:human",
 		"vitabellum:skeleton",
+		"vitabellum:zombie",
 		"vitabellum:myridian",
 		"vitabellum:thawed"
 	],

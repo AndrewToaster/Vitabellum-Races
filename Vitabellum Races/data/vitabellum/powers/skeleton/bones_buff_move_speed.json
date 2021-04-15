@@ -7,7 +7,7 @@
         "attribute": "generic.movement_speed",
         "operation": "multiply_total",
         "value": 0.085,
-        "name": "Increases move speed by 8.5% (multiply_base)"
+        "name": "Increases move speed by 8.5% (multiply_total)"
     },
 
     "hidden": true

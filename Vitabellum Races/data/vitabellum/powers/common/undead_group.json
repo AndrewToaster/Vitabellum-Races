@@ -1,0 +1,7 @@
+{
+    "name": "Undead",
+    "description": "You belong to the undead creatures",
+    "type": "origins:entity_group",
+    
+    "group": "undead"
+}
