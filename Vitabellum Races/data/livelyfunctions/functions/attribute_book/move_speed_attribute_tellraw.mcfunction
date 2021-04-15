@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Do you want to upgrade your Move Speed\nit will cost you 50 experience points\n\n"},{"text":"Yes","bold":true,"color":"green","clickEvent":{"action":"run_command","value":"/function livelyfunctions:attribute_book/move_speed_attribute"}},{"text":" \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 No","bold":true,"color":"red"}]
