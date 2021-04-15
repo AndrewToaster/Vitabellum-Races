@@ -5,7 +5,8 @@
 		"vitabellum:skeleton",
 		"vitabellum:zombie",
 		"vitabellum:myridian",
-		"vitabellum:thawed"
+		"vitabellum:thawed",
+		"vitabellum:drake"
 	],
 
 	"name": "Origin"
