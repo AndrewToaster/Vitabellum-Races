@@ -1,4 +1,4 @@
-execute if entity @s[scores={EXP=50..}] run scoreboard players add @s attr_attack 1
+execute if entity @s[scores={EXP=50..}] run scoreboard players add @s attr_attack_spd 1
 execute if entity @s[scores={EXP=50..}] run xp add @s -50 points
 execute if entity @s[scores={EXP=..50}] run tellraw @s ["",{"text":"\n\n\n"},{"text":"You do not have sufficient ammount of experience.","color":"#90393A"}]
-execute if entity @s[scores={EXP=50..}] run tellraw @s ["",{"text":"\n\n\n"},{"text":"You have sucessfuly upgraded your Armor Toughness","color":"green"}]
+execute if entity @s[scores={EXP=50..}] run tellraw @s ["",{"text":"\n\n\n"},{"text":"You have sucessfuly upgraded your attack speed","color":"green"}]
