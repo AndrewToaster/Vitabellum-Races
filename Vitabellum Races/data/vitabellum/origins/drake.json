@@ -1,13 +1,14 @@
  {
-	"icon": "minecraft:blaze_powder",
-	"order": 10,
-	"impact": 2,
 	"name": "Drakeling",
 	"description": "From ashes and fire you will rise you might be weak for now but you will show them whats to come.",
+	"icon": "minecraft:blaze_powder",
+
  	"powers": [
  		"origins:burning_wrath",
  		"origins:carnivore",
 		"vitabellum:drake/beefy",
 		"vitabellum:drake/fire_resistance"
- 	]
+ 	],
+
+	 "impact": 2
  }

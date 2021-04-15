@@ -11,5 +11,7 @@
         "vitabellum:common/undead_group",
         "vitabellum:common/food_affinity",
         "vitabellum:common/unfamishable"
-    ]
+    ],
+
+    "impact": 2
 }

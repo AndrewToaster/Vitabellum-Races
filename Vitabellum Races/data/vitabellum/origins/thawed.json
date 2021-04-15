@@ -1,7 +1,6 @@
 {
     "name": "Thawed",
     "description": "This race once ruled the world until the great blizzard. Theres a lot less of you now and a lot more out there do you have what it takes living inside of the icy mountains",
-    "impact": 1,
     "icon": "minecraft:ice",
 
     "powers": [
@@ -10,5 +9,7 @@
             "vitabellum:thawed/encase",
             "vitabellum:thawed/hunt",
             "vitabellum:thawed/hunted"
-    ]
+    ],
+    
+    "impact": 1
 }

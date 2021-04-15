@@ -3,6 +3,7 @@
 	"name": "Beefy Health Bar",
 	"description": "Your bulkier build allows you to withstand a bit more damage than usual (+2 hearts -10% speed)",
 	"type": "origins:attribute",
+	
 	"modifiers": [
 		{
 			"attribute": "minecraft:generic.max_health",
