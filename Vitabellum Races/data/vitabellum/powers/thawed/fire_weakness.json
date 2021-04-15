@@ -1,0 +1,14 @@
+{
+    "name" : "Melting",
+    "description": "Living in the mountains may had an effect on you your skin is infused with ice you take increased damage from fire due to being melted alive (100%+ damage from fire)",
+    "type": "origins:modify_damage_taken",
+
+    "damage_condition": {
+        "type": "origins:fire"
+    },
+
+    "modifier": {
+        "operation":"multiply_base",
+        "value": 1.65
+    }
+}

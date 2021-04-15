@@ -1,0 +1,12 @@
+{
+    "name": "Ice Walker",
+    "description": "You have adapted to use the ice to your advantage especially the low friction part",
+    "type": "origins:attribute",
+
+    "modifier": {
+        "attribute": "generic.movement_speed",
+        "operation": "multiply_total",
+        "value": 0.15,
+        "name": "Increases move speed by 15% (multiply_base)"
+    }
+}

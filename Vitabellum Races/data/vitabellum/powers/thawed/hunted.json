@@ -1,0 +1,11 @@
+{
+    "name": "Hunt or be Hunted",
+    "description": "Out in the mountains its Hunt or be Hutned (20%+ increased damage / 20%+ increased damage taken)",
+    "type": "origins:modify_damage_taken",
+
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 0.20,
+        "name": "Increases the damage taken by 20% (multiply_base)"
+    }
+}
