@@ -1,6 +1,6 @@
 {
-    "name": "Food Affinity",
-    "description": "Through various means you are able to metabolize food more efficiently, thus gaining more energy",
+    "name": "Raw Meat Affinity",
+    "description": "Through your inability to use fire to cook meat, your body developed to metabolize raw meat better",
     "type": "origins:modify_food",
 
     "entity_action": {
@@ -12,7 +12,7 @@
     "item_condition": {
         "type": "origins:ingredient",
         "ingredient": {
-            "item": "minecraft"
+            "tag": "livelyfunctions:raw_meat"
         }
     } 
 }
