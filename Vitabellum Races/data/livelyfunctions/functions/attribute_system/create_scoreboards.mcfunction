@@ -1,6 +1,0 @@
-scoreboard objectives add attr_skeleton dummy "Attributes Skeleton"
-scoreboard objectives add attr_zombie dummy "Attributes Zombie"
-scoreboard objectives add attr_thawed dummy "Attributes Thawed"
-scoreboard objectives add attr_drake dummy "Attributes Drakeling"
-scoreboard objectives add attr_myridian dummy "Attributes Myridian"
-scoreboard objectives add attr_spd_toggle dummy "Attributes Speed Toggle"
