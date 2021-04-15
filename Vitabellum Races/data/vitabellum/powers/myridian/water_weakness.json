@@ -29,6 +29,6 @@
         "comparison": ">",
         "compare_to": 0,
         "fluid": "minecraft:water",
-        "inverted": false
+        "inverted": true
     }
 }
