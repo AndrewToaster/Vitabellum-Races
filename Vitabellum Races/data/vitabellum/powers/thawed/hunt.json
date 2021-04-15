@@ -1,0 +1,14 @@
+{
+    "name": "Only Bones",
+    "description": "You lack any skin or muscle and therefore you are physically weaker than others, but you also are much faster.",
+    "type": "origins:attribute",
+
+    "modifier": {
+        "attribute": "generic.attack_damage",
+        "operation": "multiply_base",
+        "value": 1.20,
+        "name": "Increases attack speed by 20% (multiply_base)"
+    },
+
+    "hidden": true
+}

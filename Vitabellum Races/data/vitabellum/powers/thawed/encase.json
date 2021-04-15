@@ -1,0 +1,39 @@
+{
+    
+    
+    "name": "Encase",
+    "description": "You have the special ability to encase yourself in ice",
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 3,
+    "duration_per_stack": 20,
+    "effects": [
+        {
+            "effect": "minecraft:resistance",
+            "duration": 100,
+            "amplifier": 10,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }, 
+        {
+            "effect": "minecraft:slowness",
+            "duration": 200,
+            "amplifier": 10,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }, 
+        {
+            "effect": "minecraft:weakness",
+            "duration": 200,
+            "amplifier": 10,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+    "condition": {
+        "type": "origins:sneaking"
+    }
+}
