@@ -13,7 +13,5 @@
 		"ingredient": {
 			"tag": "livelyfunctions:raw_meat"
 		}
-	},
-
-	"hidden": true
+	}
 }
