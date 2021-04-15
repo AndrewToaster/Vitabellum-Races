@@ -1,1 +1,2 @@
 function livelyfunctions:attribute_system/init
+function livelyfunctions:attribute_book/init
