@@ -1,8 +1,16 @@
 {
     "name": "Hunger",
     "description": "You need to feed, a lot",
-    "type": "origins:exhaust",
+    "type": "origins:stacking_status_effect",
 
-    "interval": 750,
-    "exhaustion": 1
+    "min_stacks": 1,
+    "max_stacks": 2,
+
+    "duration_per_stack": 20,
+
+    "effect" : {
+        "effect": "minecraft:hunger",
+        "duration": 40,
+        "show_icon": false
+    }
 }
