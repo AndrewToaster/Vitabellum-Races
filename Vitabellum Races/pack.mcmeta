@@ -1,6 +1,7 @@
 {
 	"pack": {
-		"pack_format": 6,
-		"description": "I am Testing."
+		"name": "Vitabellum Races",
+		"description": "A Origins datapack adding custom races",
+		"pack_format": 6
 	}
 }
