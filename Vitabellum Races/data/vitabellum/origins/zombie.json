@@ -6,6 +6,10 @@
     "powers": [
         "origins:carnivore",
         "vitabellum:zombie/hunger",
-        "vitabellum:zombie/rotten_slow"
+        "vitabellum:zombie/rotten_slow",
+        "vitabellum:zombie/hungry_health",
+        "vitabellum:common/undead_group",
+        "vitabellum:common/food_affinity",
+        "vitabellum:common/unfamishable"
     ]
 }

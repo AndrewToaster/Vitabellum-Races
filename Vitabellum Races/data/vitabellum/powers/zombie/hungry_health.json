@@ -1,0 +1,10 @@
+{
+    "name": "Hungry Health",
+    "description": "Eating food also restores tiny bit of health",
+    "type": "origins:modify_food",
+
+    "entity_action": {
+		"type": "origins:heal",
+		"amount": 2
+	}
+}

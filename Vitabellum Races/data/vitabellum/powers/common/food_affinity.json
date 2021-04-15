@@ -1,0 +1,11 @@
+{
+    "name": "Food Affinity",
+    "description": "Through various means you are able to metabolize food more efficiently, thus gaining more energy",
+    "type": "origins:modify_food",
+
+    "entity_action": {
+		"type": "origins:feed",
+		"food": 2,
+        "saturation": 0
+	}
+}
