@@ -5,19 +5,19 @@
 
   "entity_action_chosen": {
     "type": "origins:execute_command",
-    "command": "function custom_commands:skeleton/skeleton_arrow_damage",
+    "command": "function livelyfunctions:skeleton/skeleton_arrow_damage",
     "permission_level": 2
   },
 
   "entity_action_respawned": {
     "type": "origins:execute_command",
-    "command": "function custom_commands:skeleton/skeleton_arrow_damage",
+    "command": "function livelyfunctions:skeleton/skeleton_arrow_damage",
     "permission_level": 2
   },
 
   "entity_action_removed": {
     "type": "origins:execute_command",
-    "command": "function custom_commands:skeleton/skeleton_arrow_decrease",
+    "command": "function livelyfunctions:skeleton/skeleton_arrow_decrease",
     "permission_level": 2
   },
   
