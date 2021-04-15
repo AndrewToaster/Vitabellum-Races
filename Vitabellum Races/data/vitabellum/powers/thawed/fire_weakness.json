@@ -9,6 +9,6 @@
 
     "modifier": {
         "operation":"multiply_base",
-        "value": 2
+        "value": 1.65
     }
 }
