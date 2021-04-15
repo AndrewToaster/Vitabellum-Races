@@ -8,6 +8,8 @@
         "vitabellum:zombie/hunger",
         "vitabellum:zombie/rotten_slow",
         "vitabellum:zombie/hungry_health",
+        "vitabellum:zombie/hungry_health_raw",
+        "vitabellum:zombie/raw_meat_affinity",
         "vitabellum:common/undead_group",
         "vitabellum:common/food_affinity",
         "vitabellum:common/unfamishable"

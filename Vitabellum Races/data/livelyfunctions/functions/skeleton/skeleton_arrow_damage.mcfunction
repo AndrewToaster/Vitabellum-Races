@@ -1,0 +1,1 @@
+scale multiply pehkui:projectiles 1.1
