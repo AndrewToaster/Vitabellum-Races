@@ -1,0 +1,19 @@
+{
+    "name": "Curse of Hunger",
+    "description": "You are cursed with eternal hunger and due to it's cursed you are unable to starve, only be hungry",
+    "type": "origins:action_over_time",
+
+    "interval": 10,
+
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 1,
+        "saturation": 0
+    },
+
+    "condition": {
+        "type": "origins:food_level",
+        "comparison": "<",
+        "compare_to": 7
+    }
+}

@@ -1,6 +1,6 @@
 {
-    "name": "Hunger",
-    "description": "You need to feed, a lot",
+    "name": "Curse of Hunger",
+    "description": "You are cursed with eternal hunger and due to it's cursed you are unable to starve, only be hungry",
     "type": "origins:stacking_status_effect",
 
     "min_stacks": 1,
