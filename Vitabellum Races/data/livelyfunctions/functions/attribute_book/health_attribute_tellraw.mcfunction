@@ -1,1 +1,0 @@
-tellraw @s ["",{"text":"Do you want to upgrade your Health\nit will cost you 50 experience points\n\n"},{"text":"Yes","bold":true,"color":"green","clickEvent":{"action":"run_command","value":"/function livelyfunctions:attribute_book/health_attribute"}},{"text":" \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 No","bold":true,"color":"red"}]
