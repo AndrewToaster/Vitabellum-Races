@@ -1,0 +1,11 @@
+{
+	"name": "Warrior",
+	"description": "You decide to be a mighty warrior preffering more hand to hand combat rather than magic or bows",
+	"icon": "minecraft:iron_sword",
+
+ 	"powers": [
+         "vitabellum:class/warrior/melee_expertise"
+ 	],
+
+	 "impact": 2
+ }
