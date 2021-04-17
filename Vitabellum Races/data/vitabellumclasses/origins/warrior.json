@@ -4,7 +4,7 @@
 	"icon": "minecraft:iron_sword",
 
  	"powers": [
-         "vitabellum:class/warrior/melee_expertise"
+         "vitabellum:warrior/melee_expertise"
  	],
 
 	 "impact": 2
