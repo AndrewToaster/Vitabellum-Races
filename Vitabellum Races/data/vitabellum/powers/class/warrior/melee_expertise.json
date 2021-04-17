@@ -1,0 +1,12 @@
+{
+    "name": "Melee Expertise",
+    "description": "You are incredibely strong in hand to hand combat",
+    "type": "origins:attribute",
+
+    "modifier": {
+        "attribute": "generic.attack_damage",
+        "operation": "multiply_total",
+        "value": 0.20,
+        "name": "Increases attack speed by 20% (multiply_base)"
+    }
+}
