@@ -11,6 +11,8 @@
         "vitabellum:zombie/hungry_health",
         "vitabellum:zombie/hungry_health_raw",
         "vitabellum:zombie/raw_meat_affinity",
+        "vitabellum:zombie/devouring",
+        "vitabellum:zombie/cooked_food_poison",
         "vitabellum:common/undead_group",
         "vitabellum:common/food_affinity"
     ],

@@ -1,0 +1,23 @@
+{
+    "name": "Cooked Poison",
+    "description": "Because your stomach has evolved to digest raw food, cooked food is now poisonous for you",
+    "type": "origins:modify_food",
+
+    "entity_action": {
+		"type": "origins:apply_effect",
+
+        "effect": {
+            "effect": "minecraft:poison",
+            "duration": 250
+        }
+	},
+
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "tag": "livelyfunctions:raw_meat"
+        },
+
+        "invert": true
+    } 
+}
